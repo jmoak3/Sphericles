@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Sphericles.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{DF489664-C067-42DA-9955-F31064EF9E1E}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Sphericles.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\SphericlesEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{275DAF2E-ABA4-4B4B-8C5F-42A9D796820E}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Sphericles">
+			<UniqueIdentifier>{BAA05469-C70B-477D-81DB-B8DEE5EC147A}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Sphericles\Sphericles.Build.cs">
+			<Filter>Source\Sphericles</Filter>
+		</None >
+		<Filter Include="Source\Sphericles\Private">
+			<UniqueIdentifier>{763E804B-753D-4D3C-A244-D6BEBE85792C}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\Sphericles\Private\Sphericles.cpp">
+			<Filter>Source\Sphericles\Private</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\Sphericles\Private\SphericlesGameMode.cpp">
+			<Filter>Source\Sphericles\Private</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\Sphericles\Private\SphericlesPawn.cpp">
+			<Filter>Source\Sphericles\Private</Filter>
+		</ClCompile >
+		<Filter Include="Source\Sphericles\Public">
+			<UniqueIdentifier>{1E5EA8CC-DFDF-4B8F-AE69-867617658A53}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\Sphericles\Public\Sphericles.h">
+			<Filter>Source\Sphericles\Public</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\Sphericles\Public\SphericlesGameMode.h">
+			<Filter>Source\Sphericles\Public</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\Sphericles\Public\SphericlesPawn.h">
+			<Filter>Source\Sphericles\Public</Filter>
+		</ClInclude >
+		<Filter Include="Source\Sphericles\Resources">
+			<UniqueIdentifier>{D8BE33CB-0830-4254-92F3-5EFBBBBFCDFB}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="Source\Sphericles\Resources\Windows">
+			<UniqueIdentifier>{AD273152-A9A0-4DE2-B8A6-B79BDAAD8BA5}</UniqueIdentifier>
+		</Filter>
+		<ResourceCompile Include="..\..\Source\Sphericles\Resources\Windows\Sphericles.rc">
+			<Filter>Source\Sphericles\Resources\Windows</Filter>
+		</ResourceCompile >
+	</ItemGroup>
+</Project>
