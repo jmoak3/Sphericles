@@ -56,11 +56,13 @@ void ASphericlesPawn::MoveForwardInput(float Val)
 
 void ASphericlesPawn::RotateYaw(float Val)
 {
+	UE_LOG(LogActor, Warning, TEXT("Val: %f"), Val);
 	AddActorWorldRotation(FRotator(0.f, GetWorld()->GetDeltaSeconds()*Val*TurnSpeed, 0.f), true);
 }
 
 
 void ASphericlesPawn::RotatePitch(float Val)
 {
+	UE_LOG(LogActor, Warning, TEXT("Val: %f"), Val);
 	AddActorLocalRotation(FRotator(GetWorld()->GetDeltaSeconds()*Val*TurnSpeed, 0.f, 0.f), true);
 }
