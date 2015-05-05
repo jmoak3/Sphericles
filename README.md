@@ -1,3 +1,5 @@
+![ScreenShot](http://i.imgur.com/hTuXxJV.png) 
+
 Sphericles, the roundest of them all.
 A project by James Moak, Amier Naji, under Professor Jarek Rossignac at Georgia Tech.
 
