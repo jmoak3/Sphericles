@@ -15,8 +15,14 @@ NOTE: It requires you to install Unreal 4, which is fortunately free now!
 
 Click these to learn more and see it in action!
 
+INTRODUCTION!
 
-[![SPHERICLES INTRO!](http://img.youtube.com/vi/8-XvJ7SA98U/0.jpg)](http://www.youtube.com/watch?v=8-XvJ7SA98U)
+[![intro](http://img.youtube.com/vi/8-XvJ7SA98U/0.jpg)](http://www.youtube.com/watch?v=8-XvJ7SA98U)
+
+HOW TO ADD OBJECTS!
+
+[![howtoaddobj](http://img.youtube.com/vi/yXzr3Nx6LAE/0.jpg)](http://www.youtube.com/watch?v=yXzr3Nx6LAE)
 
 
-[![HOW TO ADD OBJECTS!](http://img.youtube.com/vi/yXzr3Nx6LAE/0.jpg)](http://www.youtube.com/watch?v=yXzr3Nx6LAE)
+The Development Blog: 
+http://unrealsphericles.blogspot.com/
