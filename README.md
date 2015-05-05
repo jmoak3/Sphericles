@@ -3,7 +3,7 @@
 Sphericles, the roundest of them all.
 A project by James Moak, Amier Naji, under Professor Jarek Rossignac at Georgia Tech.
 
-Sphericles is an audiovisual experiment where you can fly around a space full of user-created objects hunting for "Sphericles", an object that is different from the rest. 
+Sphericles is an audiovisual experiment where you can fly around a space full of user-created objects hunting for "Sphericles", an object that is different from the rest. It was implemented through Unreal 4, exclusively through Blueprints.
 
 
 We've made it as simple as possible to add objects, and the entire thing is done through the Unreal 4 Editor, giving the user total creative control. 
